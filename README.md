@@ -1,5 +1,7 @@
 # Smart IT Help Desk – AI Ticket Classification System
 
+[![CI/CD](https://github.com/Gokul27079/smart-it-helpdesk/actions/workflows/ci.yml/badge.svg)](https://github.com/Gokul27079/smart-it-helpdesk/actions/workflows/ci.yml)
+
 A practical Flask + SQLite IT support system that uses an explainable TF-IDF and Logistic Regression pipeline to classify tickets, detect priority, and recommend a support team.
 
 ## Features
@@ -80,6 +82,10 @@ pytest -q
 ```
 
 The test suite covers ticket creation, API validation, AI classification, confidence output, priority rules, team routing, database insertion, status transitions, and deletion.
+
+## Continuous integration and delivery
+
+`.github/workflows/ci.yml` runs automatically for pushes and pull requests targeting `main`, with a manual `workflow_dispatch` option. The test job uses a Python 3.10/3.11/3.12 matrix, installs the pinned requirements, trains the ML artifacts from `data/tickets.csv`, runs pytest, and compiles the Python sources. After all matrix checks pass on `main`, the package job creates `smart-it-helpdesk.zip` and uploads it as a 14-day GitHub Actions artifact named with the commit SHA.
 
 ## Screenshots
 
