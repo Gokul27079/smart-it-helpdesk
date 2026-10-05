@@ -1,0 +1,129 @@
+title,description,category
+Laptop keyboard not working,Several keys on my company laptop stopped responding after a restart.,Hardware
+Monitor shows no signal,The external monitor is blank even though the docking station light is on.,Hardware
+Office printer is jammed,The shared printer reports a paper jam and will not print.,Hardware
+Laptop battery drains quickly,My laptop battery lasts less than an hour when unplugged.,Hardware
+Mouse is not detected,The USB mouse is not detected on my workstation.,Hardware
+Headset microphone failure,My headset microphone is not working in meetings.,Hardware
+Docking station not working,The docking station no longer connects my screens or keyboard.,Hardware
+Laptop overheating,The laptop fan runs constantly and the device becomes very hot.,Hardware
+Keyboard key damaged,The enter key on my keyboard is physically damaged.,Hardware
+Webcam not available,My built-in webcam is missing from video applications.,Hardware
+Second monitor flickering,The second monitor flickers whenever I move a window.,Hardware
+Computer will not power on,My desktop does not start when I press the power button.,Hardware
+Printer toner replacement,The floor printer is showing a low toner warning.,Hardware
+Laptop screen cracked,The laptop screen has visible physical damage.,Hardware
+USB ports stopped working,None of the USB ports recognize connected devices.,Hardware
+Conference room display issue,The meeting room display does not show the presentation.,Hardware
+Application crashes on launch,The finance application closes immediately after I open it.,Software
+Software error message,I receive an unexpected error when saving a document.,Software
+Install development tool,Please install the approved Python IDE on my workstation.,Software
+Browser keeps freezing,The browser becomes unresponsive when several tabs are open.,Software
+Spreadsheet formulas broken,A spreadsheet shows formula errors after the latest update.,Software
+Request software update,I need the latest approved version of the design application.,Software
+PDF files will not open,The PDF reader fails to open files from the shared drive.,Software
+Application bug report,The project tracker duplicates tasks when I submit a form.,Software
+Slow application performance,The inventory application takes several minutes to load.,Software
+Cannot print from application,Printing works elsewhere but fails inside the HR application.,Software
+Install approved software,Could you install the approved screen recording utility?,Software
+Operating system update issue,The workstation update is stuck at 75 percent.,Software
+Plugin missing from app,The reporting plugin disappeared after an application restart.,Software
+Application configuration request,Please configure the approved application for our new region.,Software
+Command line tool error,The internal CLI returns a module not found error.,Software
+Software license warning,The application says its license will expire soon.,Software
+Unable to connect to office WiFi,My laptop suddenly stopped connecting to the office WiFi.,Network
+VPN is not connecting,The VPN is not connecting from my laptop when I work remotely.,Network
+Network outage on floor,Everyone on the third floor has lost network access.,Network
+Internet is very slow,Web pages and cloud services are loading unusually slowly.,Network
+Cannot reach internal server,I cannot connect to the internal project server from my desk.,Network
+WiFi keeps disconnecting,The wireless connection drops every few minutes.,Network
+Remote access unavailable,Remote desktop cannot reach my office workstation.,Network
+Network cable not working,The wired network connection shows no link.,Network
+DNS lookup failure,Internal hostnames cannot be resolved from my computer.,Network
+VPN authentication timeout,The VPN client times out during connection.,Network
+Shared drive unavailable,The department shared drive cannot be opened.,Network
+Office WiFi password issue,My device rejects the office wireless credentials.,Network
+Firewall blocks service,A required internal service appears blocked by the network.,Network
+Cannot access intranet,The company intranet is unavailable from my browser.,Network
+Packet loss on network,Video calls are breaking up because of packet loss.,Network
+Network outage for team,Our entire team cannot access any network resources.,Network
+Need password reset,I forgot my company password and need a reset.,Access & Account
+Unable to login,I cannot login to the employee portal with my credentials.,Access & Account
+Request access to folder,Please grant me access to the finance shared folder.,Access & Account
+Account is locked,My account is locked after several incorrect attempts.,Access & Account
+New employee account,A new starter needs an account created for Monday.,Access & Account
+MFA code not arriving,The multi-factor authentication code is not arriving on my phone.,Access & Account
+Request application access,I need access to the project management application.,Access & Account
+Unlock user account,Please unlock my account so I can continue working.,Access & Account
+Change account role,My role should be updated to team lead in the system.,Access & Account
+SSO login failure,Single sign-on redirects me back to the login page.,Access & Account
+Expired password,The system says my password has expired.,Access & Account
+Offboarding access removal,Please remove system access for a departing employee.,Access & Account
+Access review request,Can you confirm which applications I currently have access to?,Access & Account
+Cannot authenticate,My credentials are rejected even though the password is correct.,Access & Account
+Temporary contractor access,A contractor needs limited access to the support portal.,Access & Account
+Password policy question,What are the requirements for setting a new password?,Access & Account
+Possible ransomware attack detected,A warning appeared that files are being encrypted and this may be ransomware.,Security
+Suspicious email received,I received an email asking for credentials from an unknown sender.,Security
+Security breach concern,There may have been a security breach involving a shared account.,Security
+Malware alert on laptop,Endpoint protection detected malware on my workstation.,Security
+Lost company laptop,My company laptop was lost while traveling.,Security
+Phishing link clicked,I clicked a suspicious link and need the security team to investigate.,Security
+Unauthorized login alert,I received an alert for a login from an unfamiliar location.,Security
+Data exposure concern,Sensitive customer data may have been exposed in a public folder.,Security
+Report suspicious USB,An unknown USB drive was found in the office.,Security
+Endpoint quarantine notice,My computer was quarantined by endpoint security.,Security
+Account compromise suspected,I think my work account may have been compromised.,Security
+Security policy question,Please clarify the approved process for sharing confidential files.,Security
+Potential data loss,A folder containing important records may have been deleted.,Security
+Vulnerability report,I found a possible vulnerability in an internal web tool.,Security
+Security incident report,A staff member reported a suspicious attachment.,Security
+Production security alert,The monitoring system raised a critical security alert.,Security
+Unable to access Gmail,I am unable to access Gmail through the company account.,Email
+Email unavailable,Email is unavailable for my entire team this morning.,Email
+Cannot send email,Messages remain in my outbox and are not sent.,Email
+Mailbox is full,My mailbox is full and I cannot receive new messages.,Email
+Email attachment failure,Attachments fail to upload when composing an email.,Email
+Email delayed,Messages are arriving more than an hour late.,Email
+Outlook sync issue,Outlook is not synchronizing new messages.,Email
+Spam messages increased,My inbox is receiving a large amount of unwanted mail.,Email
+Shared mailbox missing,The team shared mailbox is not visible in Outlook.,Email
+Email search broken,Searching older emails returns no results.,Email
+Calendar invite problem,Calendar invitations are not appearing on my calendar.,Email
+Email forwarding request,Please configure approved forwarding for my team mailbox.,Email
+Cannot open email attachment,A normal business attachment will not open from email.,Email
+Mobile email setup,I need help setting up work email on my approved phone.,Email
+Email signature update,Please update my corporate email signature.,Email
+Distribution list issue,Messages to our distribution list are not reaching everyone.,Email
+Database connection failed,The reporting tool cannot connect to the production database.,Database
+SQL query is slow,A query that normally runs quickly is taking twenty minutes.,Database
+Database timeout,The application reports a database timeout during checkout.,Database
+Request database access,I need read-only access to the analytics database.,Database
+Database backup failed,The nightly database backup reported an error.,Database
+Table data missing,Records expected in the customer table are not visible.,Database
+Database server unavailable,The database server appears to be down.,Database
+Stored procedure error,A stored procedure fails with an invalid object error.,Database
+Schema change request,Please review a request to add a column to the reporting schema.,Database
+Database disk space warning,The database server is nearly out of storage.,Database
+Data import failed,The scheduled data import stopped with validation errors.,Database
+Connection pool exhausted,The service cannot obtain a connection from the database pool.,Database
+Restore database backup,We need to restore yesterday’s backup to a test environment.,Database
+Database permission denied,My query receives a permission denied error.,Database
+Replication lag alert,The read replica is several minutes behind primary.,Database
+Production query error,The production dashboard shows an unexpected SQL error.,Database
+General IT question,What is the process for requesting a new workstation?,Other
+Office technology guidance,I need guidance choosing the approved collaboration tool.,Other
+Equipment return question,Where should I return equipment when leaving the company?,Other
+Help desk hours,What are the support desk operating hours?,Other
+New office setup question,What technology is available in the new office area?,Other
+Request technical training,Could someone arrange training for our team on the portal?,Other
+IT policy clarification,Where can I find the current acceptable use policy?,Other
+Service request status,Can you tell me how to track a service request?,Other
+General support request,I am not sure which team can help with this technical question.,Other
+Asset inventory question,How do I check which equipment is assigned to me?,Other
+Meeting room booking help,I need help finding an available technology-enabled room.,Other
+Work from home guidance,What equipment is approved for home working?,Other
+Vendor support question,Who should contact the vendor about this issue?,Other
+Technology onboarding,Please share the IT onboarding checklist.,Other
+Device replacement question,How do I request replacement equipment?,Other
+General configuration question,I have a minor configuration question about my workstation.,Other

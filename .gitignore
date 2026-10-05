@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+helpdesk.db
+uploads/*
+!uploads/.gitkeep
+.DS_Store
